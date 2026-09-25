@@ -18,7 +18,7 @@ _INJ = [re.compile(p, re.I) for p in INJECTION_PATTERNS]
 PII_PATTERNS = {
     "email": r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b",
     "phone": r"(?<!\d)(?:\+?\d{1,3}[\s-]?)?(?:\(?\d{3}\)?[\s-]?\d{3}[\s-]?\d{4}|\d{5}[\s-]?\d{5})(?!\d)",
-    "credit_card": r"(?<!\d)(?:\d[ -]?){13,16}(?!\d)",
+    "credit_card": r"(?<!\d)\d(?:[ -]?\d){12,15}(?!\d)",
     "ssn": r"(?<!\d)\d{3}-\d{2}-\d{4}(?!\d)",
     "ip_address": r"\b(?:\d{1,3}\.){3}\d{1,3}\b",
 }
