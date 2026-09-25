@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432pt" height="316.8pt" viewBox="0 0 432 316.8" version="1.1">
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 316.8 L 432 316.8 L 432 0 L 0 0 z" style="fill: #ffffff"/>
+<path d="M 158.2 253 L 421.2 253 L 421.2 26.2 L 158.2 26.2 z" style="fill: #ffffff"/>
+<path d="M 158.2 44.1 L 408.7 44.1 L 408.7 51.8 L 158.2 51.8 z" style="fill: #e9c46a"/>
+<path d="M 158.2 63.2 L 408.7 63.2 L 408.7 70.8 L 158.2 70.8 z" style="fill: #e9c46a"/>
+<path d="M 158.2 82.3 L 408.7 82.3 L 408.7 89.9 L 158.2 89.9 z" style="fill: #e9c46a"/>
+<path d="M 158.2 101.4 L 355 101.4 L 355 109 L 158.2 109 z" style="fill: #e9c46a"/>
+<path d="M 158.2 120.5 L 408.7 120.5 L 408.7 128.1 L 158.2 128.1 z" style="fill: #e9c46a"/>
+<path d="M 158.2 139.6 L 158.2 139.6 L 158.2 147.2 L 158.2 147.2 z" style="fill: #e9c46a"/>
+<path d="M 158.2 158.7 L 408.7 158.7 L 408.7 166.3 L 158.2 166.3 z" style="fill: #e9c46a"/>
+<path d="M 158.2 177.8 L 408.7 177.8 L 408.7 185.4 L 158.2 185.4 z" style="fill: #e9c46a"/>
+<path d="M 158.2 196.9 L 408.7 196.9 L 408.7 204.5 L 158.2 204.5 z" style="fill: #e9c46a"/>
+<path d="M 158.2 216 L 408.7 216 L 408.7 223.6 L 158.2 223.6 z" style="fill: #e9c46a"/>
+<path d="M 158.2 235.1 L 158.2 235.1 L 158.2 242.7 L 158.2 242.7 z" style="fill: #e9c46a"/>
+<path d="M 158.2 36.5 L 408.7 36.5 L 408.7 44.1 L 158.2 44.1 z" style="fill: #126782"/>
+<path d="M 158.2 55.6 L 408.7 55.6 L 408.7 63.2 L 158.2 63.2 z" style="fill: #126782"/>
+<path d="M 158.2 74.7 L 408.7 74.7 L 408.7 82.3 L 158.2 82.3 z" style="fill: #126782"/>
+<path d="M 158.2 93.8 L 408.7 93.8 L 408.7 101.4 L 158.2 101.4 z" style="fill: #126782"/>
+<path d="M 158.2 112.9 L 408.7 112.9 L 408.7 120.5 L 158.2 120.5 z" style="fill: #126782"/>
+<path d="M 158.2 132 L 408.7 132 L 408.7 139.6 L 158.2 139.6 z" style="fill: #126782"/>
+<path d="M 158.2 151.1 L 408.7 151.1 L 408.7 158.7 L 158.2 158.7 z" style="fill: #126782"/>
+<path d="M 158.2 170.2 L 408.7 170.2 L 408.7 177.8 L 158.2 177.8 z" style="fill: #126782"/>
+<path d="M 158.2 189.3 L 408.7 189.3 L 408.7 196.9 L 158.2 196.9 z" style="fill: #126782"/>
+<path d="M 158.2 208.4 L 408.7 208.4 L 408.7 216 L 158.2 216 z" style="fill: #126782"/>
+<path d="M 158.2 227.5 L 408.7 227.5 L 408.7 235.1 L 158.2 235.1 z" style="fill: #126782"/>
+<defs>
+<path id="m388faded19" d="M 0 0 L 0 3.5" style="stroke: #000000; stroke-width: 0.8"/>
+</defs>
+<use xlink:href="#m388faded19" x="158.2" y="253" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="158.2" y="267.6">0.0</text>
+<use xlink:href="#m388faded19" x="208.3" y="253" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="208.3" y="267.6">0.2</text>
+<use xlink:href="#m388faded19" x="258.4" y="253" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="258.4" y="267.6">0.4</text>
+<use xlink:href="#m388faded19" x="308.5" y="253" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="308.5" y="267.6">0.6</text>
+<use xlink:href="#m388faded19" x="358.6" y="253" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="358.6" y="267.6">0.8</text>
+<use xlink:href="#m388faded19" x="408.7" y="253" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="408.7" y="267.6">1.0</text>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="289.7" y="281.6">final valid rate</text>
+<defs>
+<path id="mfac23f5ed3" d="M 0 0 L -3.5 0" style="stroke: #000000; stroke-width: 0.8"/>
+</defs>
+<use xlink:href="#mfac23f5ed3" x="158.2" y="44.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: end" x="151.2" y="47.2">markdown_fence (syntax, n=14)</text>
+<use xlink:href="#mfac23f5ed3" x="158.2" y="63.2" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: end" x="151.2" y="66.2">trailing_comma (syntax, n=12)</text>
+<use xlink:href="#mfac23f5ed3" x="158.2" y="82.3" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: end" x="151.2" y="85.3">single_quotes (syntax, n=12)</text>
+<use xlink:href="#mfac23f5ed3" x="158.2" y="101.4" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: end" x="151.2" y="104.4">truncated (syntax, n=14)</text>
+<use xlink:href="#mfac23f5ed3" x="158.2" y="120.5" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: end" x="151.2" y="123.5">prose_prefix (syntax, n=12)</text>
+<use xlink:href="#mfac23f5ed3" x="158.2" y="139.6" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: end" x="151.2" y="142.6">missing_field (schema, n=10)</text>
+<use xlink:href="#mfac23f5ed3" x="158.2" y="158.7" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: end" x="151.2" y="161.7">number_as_string (schema, n=13)</text>
+<use xlink:href="#mfac23f5ed3" x="158.2" y="177.8" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: end" x="151.2" y="180.8">enum_case (schema, n=12)</text>
+<use xlink:href="#mfac23f5ed3" x="158.2" y="196.9" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: end" x="151.2" y="199.9">extra_field (schema, n=8)</text>
+<use xlink:href="#mfac23f5ed3" x="158.2" y="216" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: end" x="151.2" y="219">bad_tag (schema, n=12)</text>
+<use xlink:href="#mfac23f5ed3" x="158.2" y="235.1" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: end" x="151.2" y="238.1">negative_amount (schema, n=12)</text>
+<path d="M 158.2 253 L 158.2 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 421.2 253 L 421.2 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 158.2 253 L 421.2 253" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 158.2 26.2 L 421.2 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<text style="font-size: 12px; font-family: sans-serif; text-anchor: middle" x="289.7" y="20.2">Recovery by injected fault type</text>
+<path d="M 210.5 298.1 L 226.5 298.1 L 226.5 292.5 L 210.5 292.5 z" style="fill: #e9c46a"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: start" x="232.9" y="298.1">repair only</text>
+<path d="M 291.9 298.1 L 307.9 298.1 L 307.9 292.5 L 291.9 292.5 z" style="fill: #126782"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: start" x="314.3" y="298.1">repair + retry</text>
+</svg>
