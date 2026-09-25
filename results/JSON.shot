@@ -1,0 +1,24 @@
+{
+  "project": "ai-learn-13-guardrails-structured-output",
+  "seed": 42,
+  "config": {
+    "n_requests": 300,
+    "p_fault": 0.45,
+    "p_fault_retry": 0.25,
+    "max_retries": 2
+  },
+  "key_metrics": {
+    "valid_rate_raw": 0.5633,
+    "valid_rate_repair_only": 0.9167,
+    "valid_rate_repair_plus_retry": 1.0,
+    "faithful_rate_repair_plus_retry": 0.9533,
+    "mean_attempts_repair_plus_retry": 1.09,
+    "injection_block_precision": 1.0,
+    "injection_block_recall": 0.7857,
+    "pii_precision": 0.9,
+    "pii_recall": 0.9,
+    "output_block_precision": 1.0,
+    "output_block_recall": 0.8333
+  },
+  "runtime_sec": 0.035
+}

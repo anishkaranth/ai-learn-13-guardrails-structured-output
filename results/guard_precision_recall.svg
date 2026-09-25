@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432pt" height="259.2pt" viewBox="0 0 432 259.2" version="1.1">
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 259.2 L 432 259.2 L 432 0 L 0 0 z" style="fill: #ffffff"/>
+<path d="M 33.6 209.6 L 421.2 209.6 L 421.2 26.2 L 33.6 26.2 z" style="fill: #ffffff"/>
+<path d="M 51.3 209.6 L 101.6 209.6 L 101.6 34.9 L 51.3 34.9 z" style="fill: #2a9d8f"/>
+<path d="M 177.1 209.6 L 227.4 209.6 L 227.4 52.4 L 177.1 52.4 z" style="fill: #2a9d8f"/>
+<path d="M 302.9 209.6 L 353.3 209.6 L 353.3 34.9 L 302.9 34.9 z" style="fill: #2a9d8f"/>
+<path d="M 101.6 209.6 L 151.9 209.6 L 151.9 72.3 L 101.6 72.3 z" style="fill: #e76f51"/>
+<path d="M 227.4 209.6 L 277.8 209.6 L 277.8 52.4 L 227.4 52.4 z" style="fill: #e76f51"/>
+<path d="M 353.3 209.6 L 403.6 209.6 L 403.6 64 L 353.3 64 z" style="fill: #e76f51"/>
+<defs>
+<path id="m388faded19" d="M 0 0 L 0 3.5" style="stroke: #000000; stroke-width: 0.8"/>
+</defs>
+<use xlink:href="#m388faded19" x="101.6" y="209.6" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="101.6" y="224.2">input: injection block</text>
+<use xlink:href="#m388faded19" x="227.4" y="209.6" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="227.4" y="224.2">input: PII detect</text>
+<use xlink:href="#m388faded19" x="353.3" y="209.6" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: middle" x="353.3" y="224.2">output: block</text>
+<defs>
+<path id="mfac23f5ed3" d="M 0 0 L -3.5 0" style="stroke: #000000; stroke-width: 0.8"/>
+</defs>
+<use xlink:href="#mfac23f5ed3" x="33.6" y="209.6" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="26.6" y="213.4">0.0</text>
+<use xlink:href="#mfac23f5ed3" x="33.6" y="174.7" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="26.6" y="178.5">0.2</text>
+<use xlink:href="#mfac23f5ed3" x="33.6" y="139.7" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="26.6" y="143.5">0.4</text>
+<use xlink:href="#mfac23f5ed3" x="33.6" y="104.8" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="26.6" y="108.6">0.6</text>
+<use xlink:href="#mfac23f5ed3" x="33.6" y="69.8" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="26.6" y="73.6">0.8</text>
+<use xlink:href="#mfac23f5ed3" x="33.6" y="34.9" style="stroke: #000000; stroke-width: 0.8"/>
+<text style="font-size: 10px; font-family: sans-serif; text-anchor: end" x="26.6" y="38.7">1.0</text>
+<path d="M 33.6 209.6 L 33.6 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 421.2 209.6 L 421.2 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 33.6 209.6 L 421.2 209.6" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<path d="M 33.6 26.2 L 421.2 26.2" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+<text style="font-size: 12px; font-family: sans-serif; text-anchor: middle" x="227.4" y="20.2">Guardrail detectors on labeled sets</text>
+<path d="M 168.1 241.3 L 184.1 241.3 L 184.1 235.7 L 168.1 235.7 z" style="fill: #2a9d8f"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: start" x="190.5" y="241.3">precision</text>
+<path d="M 242.6 241.3 L 258.6 241.3 L 258.6 235.7 L 242.6 235.7 z" style="fill: #e76f51"/>
+<text style="font-size: 8px; font-family: sans-serif; text-anchor: start" x="265" y="241.3">recall</text>
+</svg>
